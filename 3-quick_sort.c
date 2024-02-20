@@ -86,5 +86,4 @@ void swap_ints(int *a, int *b)
 
 	tmp = *a;
 	*a = *b;
-	*b = tmp;
-}
+	*b = tmp; }
